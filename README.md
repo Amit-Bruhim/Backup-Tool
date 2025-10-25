@@ -56,9 +56,9 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/Amit-Bruhim/Backup-Tool.git
 ```
-### 2. Navigate into the src folder
+### 2. Navigate into the project folder
 ```bash
-cd Backup-Tool/src
+cd Backup-Tool
 ```
 
 ### 3. Compile and Run the program using Make
